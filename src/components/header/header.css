@@ -1,0 +1,11 @@
+header {
+    background: rgb(48, 48, 48);
+    color: white;
+    display: flex;
+}
+
+header nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
